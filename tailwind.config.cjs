@@ -14,8 +14,12 @@ module.exports = {
       xll: '1500px'
     },
     colors: {
+      transparent: 'transparent',
+      'primary': '#00040F',
       'blue': '#33BBCF',
       'white': '#FFFFFF',
+      'black': '#272727',
+      'lightblack': '#11101D',
       'lightpurple': '#E9E3FF',
       'gray': '#696969',
       'lightgray': '#B8B8B8',
@@ -48,6 +52,10 @@ module.exports = {
       },
       maxWidth: {
         'lg': '1632px',
+      },
+      lineHeight: {
+        'extra-loose': '2.5',
+        '12': '6rem',
       }
     }
   },
