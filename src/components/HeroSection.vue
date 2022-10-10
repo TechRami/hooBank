@@ -32,7 +32,7 @@
     </div>
        
     <!-- SECOND COLUMN -->
-    <div class="grid justify-center md:justify-items-end">
+    <div class="grid justify-center md:justify-end md:justify-items-end">
         <img class="w-[670px]" src="../assets/images/robotHand.png" alt="robot hand 3d image">
     </div>
   </section>
