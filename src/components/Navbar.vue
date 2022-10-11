@@ -14,7 +14,7 @@
         </div>
         <div class="hidden lg:flex flex-row">
             <ul v-for="nav in navItems" :key="nav.title" class="hidden lg:block">
-                <li class="text-white capitalize cursor-pointer ml-20 hover:opacity-70 focus:opacity-70 transition-opacity duration-200 ease-in-out select-none">{{nav.title}}</li>
+                <li class="text-white capitalize cursor-pointer ml-20 opacity-70 hover:opacity-100 focus:opacity-100 transition-opacity duration-200 ease-in-out select-none">{{nav.title}}</li>
             </ul>
         </div>
         <label for="check" class="flex flex-col lg:hidden">

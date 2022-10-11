@@ -17,14 +17,17 @@ module.exports = {
       transparent: 'transparent',
       'primary': '#00040F',
       'blue': '#33BBCF',
-      'white': '#FFFFFF',
-      'black': '#272727',
+      'sky': '#00F6FF',
+      'black': '#00040E',
       'lightblack': '#11101D',
-      'lightpurple': '#E9E3FF',
+      'purple': '#214D76',
+      'lightpurple': '#BCA5FF',
       'gray': '#696969',
       'lightgray': '#B8B8B8',
       'white': '#FBFBFB',
       'purewhite': '#FFFFFF',
+      'transwhite': 'rgba(255, 255, 255, 0.10)'
+
     },
     fontFamily: {
       sans: ['Poppins', 'sans-serif'],
