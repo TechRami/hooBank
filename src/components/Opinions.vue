@@ -15,7 +15,7 @@
                 <p class="text-white text-[18px] leading-8 py-8 mt-6 tracking-wide">Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
             </div>
             <div class="flex flex-row">
-                <img class="h-[48px] w-[48px]" src="../assets/images/Herman Jensen.png" alt="Herman Jansen">
+                <img class="h-[48px] w-[48px]" src="../assets/images/HermanJensen.png" alt="Herman Jansen">
                 <div class="flex flex-col px-5">
                     <h4 class="text-white text-[20px">Herman Jensen</h4>
                     <p class="text-white opacity-70 text-[20px">Founder & leader</p>
@@ -28,7 +28,7 @@
                 <p class="text-white text-[18px] leading-8 py-8 mt-6 tracking-wide">Money makes your life easier. If you're lucky to have it, you're lucky.</p>
             </div>
             <div class="flex flex-row">
-                <img class="h-[48px] w-[48px]" src="../assets/images/Steve Mark.png" alt="Herman Jansen">
+                <img class="h-[48px] w-[48px]" src="../assets/images/SteveMark.png" alt="Herman Jansen">
                 <div class="flex flex-col px-5">
                     <h4 class="text-white text-[20px">Steve Mark</h4>
                     <p class="text-white opacity-70 text-[20px">Founder & leader</p>
@@ -41,7 +41,7 @@
                 <p class="text-white text-[18px] leading-8 py-8 mt-6 tracking-wide">It is usually people in the money business, finance, and international trade that are really rich.</p>
             </div>
             <div class="flex flex-row">
-                <img class="h-[48px] w-[48px]" src="../assets/images/Kenn Gallagher.png" alt="Herman Jansen">
+                <img class="h-[48px] w-[48px]" src="../assets/images/KennGallagher.png" alt="Herman Jansen">
                 <div class="flex flex-col px-5">
                     <h4 class="text-white text-[20px">Kenn Gallagher</h4>
                     <p class="text-white opacity-70 text-[20px">Founder & leader</p>
