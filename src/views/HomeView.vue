@@ -18,8 +18,9 @@
     <Billing class="py-16" />
     <Deal class="py-16" />
     <Opinions class="py-16" />
+    <Sponsors class="pb-16" />
     <Banner class="py-16" />
-
+    <Footer class="pt-36" />
   </div>
 </template>
 
@@ -31,8 +32,10 @@ import Billing from '../components/Billing.vue'
 import Deal from '../components/Deal.vue'
 import Opinions from '../components/Opinions.vue'
 import Banner from '../components/Banner.vue'
+import Sponsors from '../components/Sponsors.vue'
+import Footer from '../components/Footer.vue'
 export default {
-components: { HeroSection, HeroStats, Business, Billing, Deal, Opinions, Banner }
+  components: { HeroSection, HeroStats, Business, Billing, Deal, Opinions, Banner, Sponsors, Footer }
 }
 </script>
 

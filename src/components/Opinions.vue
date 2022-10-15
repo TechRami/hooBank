@@ -8,7 +8,7 @@
             <p class="text-white opacity-70 text-[18px]">Everything you need to accept card payments <br class="hidden lg:block"/> and grow your business anywhere on the planet.</p>
         </div>
     </div>
-    <div class="flex flex-col lg:flex-row justify-between items-center lg:items-start py-20">
+    <div class="flex flex-col lg:flex-row justify-between items-center lg:items-start">
         <div class="flex-col hover:bg-gradient-to-tl rounded-[20px] from-black to-transwhite p-8 max-w-[380px]">
             <div class="h-64">
                 <img src="../assets/icons/quote.svg" alt="quote symbol">
