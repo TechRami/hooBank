@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col lg:flex-row justify-between">
-        <div v-for="stat in stats" :key="stat.title" class="flex flex-row justify-center items-center p-4">
-            <p class="text-[40px] text-white font-semibold">{{stat.value}}</p>
+        <div v-for="stat in stats" :key="stat.title" class="flex flex-col lg:flex-row justify-center items-center p-4">
+            <p class="text-[32px] lg:text-[40px] text-white font-semibold">{{stat.value}}</p>
             <span class="blue__gradient text-[21px] p-4 uppercase font-regular">{{stat.title}}</span>
         </div>
     </div>

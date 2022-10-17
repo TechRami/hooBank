@@ -7,7 +7,7 @@
       </div>
 
       <div class="flex justify-center lg:justify-end">
-          <img class="w-[530px] h-[455px] " src="../assets/images/deal.png" alt="billing image">
+          <img class="w-[530px]" src="../assets/images/deal.png" alt="billing image">
       </div>
     </div>
   </template>

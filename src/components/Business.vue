@@ -12,9 +12,9 @@
         </p>
         <a href="" class="text-black font-medium text-[18px] py-5 px-8 background__blue rounded-xl capitalize self-start">get started</a>
     </div>
-    <div class="flex flex-col justify-center lg:justify-end">
-        <div v-for="info in infos" :key="info.title" class="flex flex-row justify-center items-center p-6 hover:bg-gradient-to-tl rounded-[20px] from-black to-transwhite ">
-            <div class="background__green rounded-full h-[54px] min-w-[54px] flex justify-center">
+    <div class="flex flex-col justify-center lg:justify-end py-6 lg:py-0">
+        <div v-for="info in infos" :key="info.title" class="flex flex-col lg:flex-row justify-center items-center p-6 hover:bg-gradient-to-tl rounded-[20px] from-black to-transwhite ">
+            <div class="background__green rounded-full h-[54px] max-w-[54px] flex justify-center grow-0">
                 <component class="w-[50%] text-sky" :is="info.icon"></component>
             </div>
             <div class="flex flex-col justify-center px-5">

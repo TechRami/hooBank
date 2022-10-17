@@ -4,11 +4,11 @@
     <div class="flex flex-col justify-center">
         <div class="flex flex-row items-center bg-gradient-to-br from-lightblack to-black rounded-[10px] p-1 px-2 self-start">
             <img class="w-[32px] h-[32px]" src="../assets/icons/discountIcon.svg" alt="discount icon">
-            <p class="text-white uppercase pl-3 text-lg">20% <span class="opacity-60">discount for</span> 1 month <span class="opacity-60">account</span></p>
+            <p class="text-white uppercase pl-3 text-sm lg:text-lg">20% <span class="opacity-60">discount for</span> 1 month <span class="opacity-60">account</span></p>
         </div>
         <div class="flex flex-row pt-4">
             <div class="flex flex-col">
-                <h1 class="capitalize text-5xl md:text-7xl font-semibold text-white leading-12">the next <span class="block text-transparent bg-clip-text bg-gradient-to-r from-blue to-white">generation</span> payment method</h1>
+                <h1 class="capitalize text-5xl md:text-7xl font-semibold text-white leading-[1.4] lg:leading-12">the next <span class="block text-transparent bg-clip-text bg-gradient-to-r from-blue to-white">generation</span> payment method</h1>
                 <p class="text-white opacity-70 pt-10 leading-8">
                     Our team of experts uses a methodology to identify <br /> the credit cards most likely to fit your needs. <br />
                     We examine annual percentage rates, annual fees.
@@ -33,7 +33,7 @@
         <img class="w-[100%] z-[5]" src="../assets/images/robotHand.png" alt="robot hand 3d image">
         <div class="absolute blue_purple_gradient z-[1] right-[10%] bottom-[100px] h-[350px] w-[330px] lg:h-[650px] lg:w-[630px] rounded-full"></div>
         <div class="absolute blue__gradient z-[1] right-[0] top-[0] h-[350px] w-[230px] lg:h-[350px] lg:w-[330px] rounded-full"></div>
-        <div class="absolute saturation__gradient z-[1] right-[0px] top-[0] h-[350px] w-[430px] lg:h-[350px] lg:w-[430px] rounded-full"></div>
+        <div class="absolute saturation__gradient z-[1] right-0 top-0 h-[250px] w-[400px] lg:h-[350px] lg:w-[430px] rounded-full"></div>
     </div>
   </section>
 </template>

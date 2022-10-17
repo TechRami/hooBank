@@ -1,7 +1,7 @@
 <template>
   <div class="grid grid-rows-1 lg:grid-cols-2 gap-6">
     <div class="flex justify-center lg:justify-start items-center">
-        <img class="w-[530px] h-[455px] " src="../assets/images/billing.png" alt="billing image">
+        <img class="w-[530px] " src="../assets/images/billing.png" alt="billing image">
     </div>
     <div class="flex flex-col justify-center">
         <h2 class="text-white text-[36px] lg:text-[48px] font-semibold">Easily control your billing <br class="hidden lg:block" /> & invoicing.</h2>
